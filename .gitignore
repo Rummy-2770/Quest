@@ -1,0 +1,11 @@
+# macOS Files
+.DS_Store
+# Git ingore
+#.gitignore
+.classpath
+.project
+.settings/
+/target/
+.idea/
+api-esim-management.iml
+
